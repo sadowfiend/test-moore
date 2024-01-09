@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test-moore/static/css/main.12c4dfce.css",
+    "main.js": "/test-moore/static/js/main.c772addf.js",
+    "static/media/Gilroy-Regular.ttf": "/test-moore/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/photo-3.png": "/test-moore/static/media/photo-3.e2d7b35b53dcc215b996.png",
+    "static/media/illustration.png": "/test-moore/static/media/illustration.8a2e862d878e835cb72d.png",
+    "static/media/photo-2.png": "/test-moore/static/media/photo-2.921868c8a13428be7aa1.png",
+    "index.html": "/test-moore/index.html",
+    "main.12c4dfce.css.map": "/test-moore/static/css/main.12c4dfce.css.map",
+    "main.c772addf.js.map": "/test-moore/static/js/main.c772addf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12c4dfce.css",
+    "static/js/main.c772addf.js"
+  ]
+}
